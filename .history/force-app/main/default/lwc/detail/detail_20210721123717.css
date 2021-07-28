@@ -1,0 +1,7 @@
+body{
+  margin: spacingNone;
+}
+.price {
+  color: green;
+  font-weight: bold;
+}
